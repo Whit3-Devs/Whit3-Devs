@@ -1,4 +1,4 @@
-<img width="100%"  src="https://github.com/Whit3-Devs/Whit3-Devs/blob/master/gif/binarycode.gif?raw=true" />
+<img width="100%" height="150px" src="https://github.com/Whit3-Devs/Whit3-Devs/blob/master/gif/binarycode.gif?raw=true" />
 
 # Hola, soy Augusto Blanco!
 ------------
