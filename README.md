@@ -29,8 +29,8 @@
 ### [To-Do-List Aplication](https://github.com/Whit3-Devs/To-Do-List-Aplication "To-Do-List Aplication")
 
 
-## Para poder conocer más acerca de mi, te invito a revisar mi portfolio:
-### [Portfolio](https://augustoblancoweb.web.app "Portfolio")
+### Para poder conocer más acerca de mi, te invito a revisar mi portfolio:
+#### [Portfolio](https://augustoblancoweb.web.app "Portfolio")
 
-## Para poder contactarte conmigo, te invito a enviarme un correo al siguiente email:
-### blanco.augusto.r@gmail.com
+### Para poder contactarte conmigo, te invito a enviarme un correo al siguiente email:
+#### blanco.augusto.r@gmail.com
