@@ -1,36 +1,60 @@
-<img width="100%" height="250px" src="https://github.com/Whit3-Devs/Whit3-Devs/blob/master/images/Banner.png?raw=true" />
-<img  src="https://github.com/Whit3-Devs/Whit3-Devs/blob/master/images/AboutMe.png?raw=true" />
+# Hola, soy Augusto Blanco 👋
 
-# :computer: Projects
+**Frontend Developer orientado a producto.** Me apasiona construir interfaces **rápidas, accesibles y escalables**, convertir diseños en experiencias reales y medir su impacto en el usuario. Disfruto mucho **trabajar en equipo**, dar/recibir feedback y empujar features de punta a punta con ownership.
 
-## [PI-Countries](https://countries-pi-henry.web.app/ "PI-Countries")
-#### Proyecto individual por el bootcamp de Henry. Para consolidar y fortalecer los conocimientos en:
-- Frontend: HTML, CSS, Javascript, ReactJS, Axios, Redux.
-- Backend: NodeJS, ExpressJS, Sequelize, PostgreSQL.
+---
 
-<img  src="https://github.com/Whit3-Devs/Whit3-Devs/blob/master/gif/countriesapp.gif?raw=true" alt="Gif del proyecto individual de henry"/>
-------------
+## 🧩 Sobre mí
+- Me motiva lanzar iteraciones chicas, medir, aprender y mejorar.
+- Me gusta acompañar a diseño y backend para que todo fluya.
+- Priorizo la usabilidad, la accesibilidad y la performance.
+- Documentación breve y útil; PRs claras; foco en calidad pragmática.
 
-## [Gallery-Photo-React](https://gallery-photo-agus.web.app/ "Gallery-Photo-React")
-#### Aplicación para visualizar una galería de fotos y aprender React:
-- Technologies: HTML, CSS, Javascript, ReactJS, Librería React-Grid-Layout.
+---
 
-<img  src="https://github.com/Whit3-Devs/Whit3-Devs/blob/master/gif/galleryphoto.gif?raw=true" alt="Gif de la galeria de fotos hecha en react"/>
-------------
+## 🚀 Experiencia y foco
+- **Interfaces web** desde el diseño (Figma) hasta producción.
+- **Arquitectura de frontend**: componentes reutilizables, estados claros, rutas y data fetching predecible.
+- **Performance**: Web Vitals, análisis de cuellos de botella y optimizaciones concretas.
+- **Calidad**: testing donde aporta valor (unitario, integración, e2e) y CI/CD confiable.
+- **Integraciones** habituales: pagos, autenticación, analítica, mensajería y servicios cloud.
+- **Colaboración**: trabajo cercano con producto, diseño y backend; comunicación clara.
 
-## [Music-Media-Player](https://github.com/Whit3-Devs/Music-Media-Player "Music-Media-Player")
-#### Aplicación para reproducir un album de música:
-- Technologies: HTML, CSS, Javascript, Web-Api-Audio.
+---
 
-<img  src="https://github.com/Whit3-Devs/Whit3-Devs/blob/master/gif/multimediaplayer.gif?raw=true" alt="Gif del reproductor multimedia hecha con javascript"/>
-------------
+## 🛠️ Tecnologías (día a día)
+**React, Next.js, TypeScript, Tailwind, Storybook, Vite**  
+Testing: **Jest, Testing Library, Cypress**  
+Dev/Cloud & datos: **Node.js, Docker, AWS**, bases de datos y APIs REST/GraphQL  
+Observabilidad/Perf: **Lighthouse, Web Vitals**, analítica de producto  
+Herramientas de equipo: Git/GitHub, PR reviews, pipelines de CI/CD
 
-### [Challenge-Alkemy-Full-Stack-Javascript](https://github.com/Whit3-Devs/Challenge-Alkemy-Full-Stack-Javascript "Challenge-Alkemy-Full-Stack-Javascript")
-### [To-Do-List Aplication](https://github.com/Whit3-Devs/To-Do-List-Aplication "To-Do-List Aplication")
+> No se trata solo de herramientas: me interesa el **impacto real en el usuario** y la **experiencia del equipo (DX)**.
 
-## Información de contacto:
-### :checkered_flag: Para poder conocer más acerca de mi, te invito a revisar mi portfolio:
-#### [Portfolio](https://augustoblancoweb.web.app "Portfolio")
+---
 
-### :mailbox: Para poder contactarte conmigo, te invito a enviarme un correo al siguiente email:
-#### blanco.augusto.r@gmail.com
+## 📌 Qué estoy buscando
+Un equipo donde pueda:
+- Aportar impacto de producto con foco en UX/performance.
+- Colaborar de cerca con diseño y backend.
+- Seguir aprendiendo y compartir lo que sé.
+
+---
+
+## 📫 Contacto
+**Email:** blanco.augusto.r@gmail.com  
+**LinkedIn:** https://linkedin.com/in/blanco-augusto-r  
+**Ubicación:** Argentina (remoto/mixto)
+
+---
+
+### ✨ Extras opcionales (si te gusta usar badges/widgets)
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=fff" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38bdf8?logo=tailwindcss&logoColor=fff" />
+  <img alt="Storybook" src="https://img.shields.io/badge/Storybook-ff4785?logo=storybook&logoColor=fff" />
+  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-0f172a?logo=cypress&logoColor=fff" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232f3e?logo=amazon-aws&logoColor=ff9900" />
+</p>
