@@ -48,7 +48,6 @@ Un equipo donde pueda:
 
 ---
 
-### ✨ Extras opcionales (si te gusta usar badges/widgets)
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff" />
